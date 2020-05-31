@@ -11,7 +11,6 @@
 #include <cstring>
 #include "./row_block.h"
 #include "./text_parser.h"
-#include "./strtonum.h"
 
 namespace dmlc {
 namespace data {
